@@ -9,14 +9,13 @@ I am a DevOps Engineer with a solid background in classic systems administration
 
 | Category | Technologies |
 | :--- | :--- |
-| **Cloud & OS** | ![AWS](https://shields.io) ![Yandex Cloud](https://shields.io) ![Astra Linux](https://shields.io) ![Linux](https://shields.io) |
-| **Containers & Orchestration** | ![Docker](https://shields.io) ![Docker Compose](https://shields.io) ![Kubernetes](https://shields.io) ![Helm](https://shields.io) |
-| **Automation & IaC** | ![Terraform](https://shields.io) ![Ansible](https://shields.io) |
-| **Web & Databases** | ![Nginx](https://shields.io) ![Apache](https://shields.io)  ![PostgreSQL](https://shields.io) ![MySQL](https://shields.io) |
-| **CI/CD Pipelines** | ![GitLab CI](https://shields.io) ![Jenkins](https://shields.io) ![GitHub Actions](https://shields.io) |
-| **Observability** | ![Prometheus](https://shields.io) ![Grafana](https://shields.io) ![Node Exporter](https://shields.io) |
-| **Scripting** | ![Python](https://shields.io) ![Bash](https://shields.io) |
-
+| **Cloud & OS** | `AWS` • `Yandex Cloud` • `Astra Linux` • `Linux` |
+| **Containers & Orchestration** | `Docker` • `Docker Compose` • `Kubernetes` • `Helm` |
+| **Automation & IaC** | `Terraform` • `Ansible` |
+| **Web & Databases** | `Nginx` • `Apache` • `PostgreSQL` • `MySQL` |
+| **CI/CD Pipelines** | `GitLab CI` • `Jenkins` • `GitHub Actions` |
+| **Observability** | `Prometheus` • `Grafana` • `Node Exporter` |
+| **Scripting** | `Python` • `Bash` |
 ---
 
 ### 🚀 Featured Project
