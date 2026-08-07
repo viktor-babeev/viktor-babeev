@@ -1,4 +1,4 @@
-# Hi there, I'm Victor Babeev! 👋
+# Hi there, I'm Victor 👋
 ### DevOps & Infrastructure Engineer (Junior+ / Middle)
 
 I am a DevOps Engineer with a solid background in classic systems administration (`Linux`, `1C/PostgreSQL/Apache`). I treat infrastructure as code and focus on automating environment operations, streamlining CI/CD, and implementing cloud-native observability.
