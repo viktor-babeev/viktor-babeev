@@ -20,8 +20,8 @@ I am a DevOps Engineer with a solid background in classic systems administration
 
 ### 🚀 Featured Project
 
-*   🏗️ **[wordpress-infrastructure](https://github.com)**
-    *   *Description:* A declarative multi-container web ecosystem orchestrated via Docker Compose (`WordPress`, `MySQL`, `Nginx Reverse Proxy`). Features a built-in Observability stack with externalized `prometheus.yml` runtime metrics scraping and automated Grafana datasource provisioning via code.
+*   🏗️ **[wordpress-infra-nginx-monitoring-compose](https://github.com/viktor-babeev/wordpress-infra-nginx-monitoring-compose)**
+    *   *Description:* Production-grade, zero-public-ports WordPress infrastructure orchestrated via Docker Compose, featuring an Nginx edge ingress in host mode and a fully automated GitOps/IaC monitoring perimeter using Prometheus, Grafana 10, and an isolated Node Exporter agent.
     *   *Practical Experience Area:* This environment blueprint reflects my practical approach to configuring infrastructure platforms. It incorporates core methodologies developed alongside production workflows in `Terraform`, configuration templates in `Ansible`, and automated delivery pipelines leveraging `GitLab CI` and `Jenkins`.
 
 ---
