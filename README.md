@@ -20,7 +20,7 @@ I am a DevOps Engineer with a solid background in classic systems administration
 
 ### 🚀 Featured Project
 
-* <img src="https://raw.githubusercontent.com/viktor-babeev/viktormath/main/assets/icons/viktormath_icon_1024x1024_.png" width="18" height="18" align="center" alt="ViktorMATH Icon"> **[ViktorMATH](https://github.com/viktor-babeev/viktormath)**
+* <img src="https://raw.githubusercontent.com/viktor-babeev/viktormath/main/assets/icons/viktormath_icon_1024x1024_.png" width="18" height="18" style="vertical-align: -3px; margin-right: 4px;" alt="ViktorMATH Icon"> **[ViktorMATH](https://github.com/viktor-babeev/viktormath)**
     *   *Description:* A standalone, cross-platform desktop math practice application for children (ad-free) featuring a graphical user interface (GUI), developed using `Python 3` and `CustomTkinter`. It features a unique problem-tracking system (preventing duplicates), event-based inactivity monitoring, and state persistence in JSON format.
     *   *Packaging:* Distributed as a native `.deb` package for Linux (installing to `/opt` with system shortcut integration) and as a portable `.exe` file for Windows containing embedded Win32 version metadata.
 
